@@ -1,0 +1,16 @@
+.message {
+    padding: 50px;
+}
+h3 {
+    color: aliceblue;
+}
+p {
+    margin: 1px;
+    color: aliceblue;
+}
+body {
+    background-color: rgb(56, 56, 56);
+}
+a {
+    color: rgb(94, 221, 253);
+}
