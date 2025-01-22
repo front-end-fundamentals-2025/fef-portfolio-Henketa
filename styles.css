@@ -16,5 +16,10 @@ li {
     color: aliceblue;
 }
 a {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 8px;
+    border: 2px solid;
     color: rgb(94, 221, 253);
 }
