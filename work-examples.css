@@ -23,7 +23,7 @@ header {
     
 }
 section {
-    background-color: rgb(46, 46, 44);
+    background-color: rgb(146, 46, 44);
     padding: 0.3em;
     border-radius: 0.2em;
     
@@ -31,9 +31,11 @@ section {
 .image-container {
     background-color: rgb(207, 193, 179);
     width: 15em;
-    height: 8em;
-    justify-self: center;
-    transition: 0.2s;
+    height: 8.42em;
+}
+.work-images {
+    width: 15em;
+    height: 8.42em;
 }
 h2 {
     margin-top: 13px;
