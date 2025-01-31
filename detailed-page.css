@@ -42,7 +42,7 @@ h1 {
     height: 28em;
 }
 
-@media screen and (max-width:780px) {
+@media screen and (max-width:970px) {
     .container {
         grid-template-columns: 1fr;
     }
