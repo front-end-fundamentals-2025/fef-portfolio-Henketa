@@ -32,14 +32,14 @@ h1 {
 }
 .image-container {
     background-color: rgb(207, 193, 179);
-    width: 52.5em;
-    height: 34em;
+    width: 42.5em;
+    height: 24em;
 }
 .description {
     display: flex;
     background-color: rgb(46, 46, 44);
-    width: 44em;
-    height: 38em;
+    width: 34em;
+    height: 28em;
 }
 
 @media screen and (max-width:780px) {
