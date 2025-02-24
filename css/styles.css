@@ -1,20 +1,12 @@
 h2 {
     margin-bottom: 10px;
-    color: aliceblue;
 }
 
 body {
     background-color: rgb(56, 56, 56);
-}
-h1 {
     color: aliceblue;
 }
-p {
-    color: aliceblue;
-}
-li {
-    color: aliceblue;
-}
+
 a {
     background-color: rgba(0, 0, 0, 0.3);
     padding: 4px 8px;
